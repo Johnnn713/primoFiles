@@ -89,18 +89,18 @@ Additionally, your client must be assigned the necessary **scopes**, which will 
 
  * ### 📌 Field Descriptions
  
-   - **origin**: Origin address of the shipment.
-   - **destination**: Final delivery address of the shipment.
-   - **items**: Collection of shipment items, including weight, dimensions, and description.
-   - **selectedAccessorials**: Optional accessorial services such as liftgate, residential delivery, or inside pickup.
-   - **stop**: Optional intermediate stop in the route (e.g., for partial loading or unloading).
-   - **modes**: Preferred or allowed shipping modes. Examples include:
-     - `FTL`: Full Truckload
-     - `LTL`: Less Than Truckload
-   - **equipment**: Requested equipment type for the shipment (e.g., dry van, reefer, flatbed).
-   - **equipmentLength**: Requested equipment length in feet (e.g., 48, 53).
-   - **declaredValue**: Declared value of the shipment for liability or insurance purposes.
-   - **insurance**: Insurance coverage details for the shipment.
+- **`origin`**: Origin address of the shipment.
+- **`destination`**: Final delivery address of the shipment.
+- **`items`**: Collection of shipment items, including weight, dimensions, and description.
+- **`selectedAccessorials`**: Optional accessorial services such as liftgate, residential delivery, or inside pickup.
+- **`stop`**: Optional intermediate stop in the route (e.g., for partial loading or unloading).
+- **`modes`**: Preferred or allowed shipping modes. Examples include:
+  - `FTL`: Full Truckload
+  - `LTL`: Less Than Truckload
+- **`equipment`**: Requested equipment type for the shipment (e.g., dry van, reefer, flatbed).
+- **`equipmentLength`**: Requested equipment length in feet (e.g., 48, 53).
+- **`declaredValue`**: Declared value of the shipment for liability or insurance purposes.
+- **`insurance`**: Insurance coverage details for the shipment.
 
  ---
 
