@@ -101,7 +101,7 @@ Additionally, your client must be assigned the necessary **scopes**, which will 
 - **`equipmentLength`**: Requested equipment length in feet (e.g., 48, 53).
 - **`declaredValue`**: Declared value of the shipment for liability or insurance purposes.
 - **`insurance`**: Insurance coverage details for the shipment.
-- - **`customerReference`**: Identifies the specific branch or office of a client.
+- **`customerReference`**: Identifies the specific branch or office of a client.
 
  ---
 
