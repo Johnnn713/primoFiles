@@ -87,7 +87,7 @@ Additionally, your client must be assigned the necessary **scopes**, which will 
 ```
 ---
 
- * ### 📌 Field Descriptions
+### 📌 Field Descriptions
  
 - **`origin`**: Origin address of the shipment.
 - **`destination`**: Final delivery address of the shipment.
